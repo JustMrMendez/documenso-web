@@ -33,7 +33,7 @@
 >
 > The code can be found on the [feat/refresh](https://github.com/documenso/documenso/tree/feat/refresh) branch.
 >
-> The new version will be released after the current testing phase.
+> The new version will be released after the current testing phase. <- am testing
 
 # Join us in testing Documenso 1.0 during [MALFUNCTION MANIA](https://documenso.com/blog/malfunction-mania)
 
